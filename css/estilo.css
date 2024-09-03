@@ -1,0 +1,19 @@
+.page{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+.slideBar{
+    background-color: #28abcc;
+    display: flex;
+    height: 90px;
+    width: 100%;
+ 
+}
+.imagem{
+    height: 90px;
+}
+#h1{
+    color: aliceblue;
+    margin-top: 9px;
+}
